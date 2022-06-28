@@ -165,8 +165,7 @@ spec:
                     fieldRef:
                       fieldPath: metadata.name
                 - name: OPERATOR_NAME
-                  value: kong-operat
-                  or
+                  value: kong-operator
                 - name: RELATED_IMAGE_KONG
                   value: registry.connect.redhat.com/kong/kong:2.4.0
                 - name: RELATED_IMAGE_KONG_CONTROLLER
