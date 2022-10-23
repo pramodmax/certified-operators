@@ -213,7 +213,7 @@ spec:
   maturity: alpha
   provider:
     name: Kong Inc.
-  version: 0.10.1
+  version: 0.10.2
   relatedImages:
   - name: kong-offline-operator1-df492b459a0983613ac9741e03af121126632f270f9ff3af116b4a38c57b6d1d-annotation
     image: registry.connect.redhat.com/kong/kong-offline-operator1@sha256:df492b459a0983613ac9741e03af121126632f270f9ff3af116b4a38c57b6d1d
